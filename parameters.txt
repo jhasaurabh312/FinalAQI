@@ -1,0 +1,2 @@
+City	Precipitation	GDP	Temperature	Longititute	Latitude	Altitude	PopulationDensity	Coastal	GreenCoverageRate	Incineration(10,000ton)
+
